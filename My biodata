@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+  <html>
+  
+  <style>
+   p.center { 
+    text-align:center;
+     color:black;
+   }
+
+p.large{
+       font-size:200%
+}
+  
+  </style>
+  <body bgcolor="tomato">
+   <p class="center large">My Biodata</p>
+  <br><br><br>
+  <p class="center"><img src="rashed.jpg" width="220" height="240"></area></p>
+  <p class="center">Profile Picture</p>
+  <p class="center large"> Student Information:-</p>
+  
+  <p class="center">
+Student Name: Jobayer Rahman<br><br>
+  Father Name: Abdul Baten Khan<br><br>
+   Mother Name: Monowara Begum<br><br>
+   Date of birth:22 Dec 1999<br><br>
+        Religion:    Islam<br>
+  <a href="contact.htm">Contact:</a>
+   </p>
+ <center>
+ <h1><a href="edu.htm">Educational Qualification:-</a></h1>
+</center>
+
+  <center>
+
+ <h1> <a href="hobby.htm">Hobbies:-</a></h1>
+   
+  <p class="center large">Achievements:-</p>
+
+ <p class="center"> No achievements</p>
+
+  <p class="center large">Future plan and purpose:-</p>
+<p class="center">
+  a.Become an Engineer<br>
+  b.Become a honest man
+</p>
+  </body>
+  </htm
